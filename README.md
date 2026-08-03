@@ -17,6 +17,13 @@ loyalty, payments, self-service kiosk. Go and TypeScript, Terraform and Ansible,
 **[webrtc-rtsp](https://github.com/bhaktiyudha/webrtc-rtsp)** — RTSP camera streams
 republished over WebRTC. Go, pion.
 
+**Writing** — notes on things I've built and things I got wrong:
+[sensor fusion for vehicle classification](https://yudhabhakti.com/writing/when-the-camera-and-the-lidar-disagree) &middot;
+[what LoRa is actually good for](https://yudhabhakti.com/writing/lora-is-not-wifi-with-better-range) &middot;
+[industrial telemetry as archaeology](https://yudhabhakti.com/writing/modbus-mqtt-and-the-factory-floor) &middot;
+[edge inference in the field](https://yudhabhakti.com/writing/models-that-are-fast-in-the-lab) &middot;
+[software with no patch window](https://yudhabhakti.com/writing/ugmsat-1-no-patch-window)
+
 Go, Python, TypeScript &middot; AWS, Azure, GCP &middot; Terraform, Ansible &middot;
 BigQuery, dbt &middot; PyTorch
 
