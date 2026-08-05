@@ -5,9 +5,6 @@ operations, and telecommunications, building streaming platforms, cloud data
 platforms, computer vision on edge devices, and LLM applications that went into
 production and stayed there.
 
-Digital Product Development Lead at Sinar Mas Agribusiness and Food (PT SMART Tbk)
-through July 2026. Computer Science and Electronics, Universitas Gadjah Mada.
-
 Most of my work is in private repositories. What's public:
 
 **[bykami](https://github.com/yudhabhaktin/bykami)** — Local commerce platform: booking,
